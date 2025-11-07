@@ -8,8 +8,6 @@
 <p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
 
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <be>
-
 </details>
 
 ---
