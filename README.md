@@ -17,7 +17,7 @@
 <h3 align="center">📬 Connect with me</h3>
 
 <p align="center">
-  <a href="https://t.me/spxd007" target="_blank">
+  <a href="https://t.me/Shadi Alhomsi" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="mailto:shadialhomsi70@gmail.com">
